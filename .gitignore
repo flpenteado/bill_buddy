@@ -1,0 +1,18 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Environment directories
+venv/
+env/
+.venv/
+.egg-info/
+pip-log.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Flask app directories
+instance/
+static/uploads/
